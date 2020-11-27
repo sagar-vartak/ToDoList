@@ -1,0 +1,33 @@
+body {
+  margin: auto;
+}
+h1 {
+  text-align: center;
+  color: blue;
+}
+ul {
+  list-style: inside;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+#mnlist {
+  text-align: center;
+}
+#form {
+  text-align: center;
+  align-content: center;
+}
+#form label {
+  font-size: 20px;
+}
+#form button {
+  font-size: 16px;
+}
+li {
+  padding-bottom: 10px;
+}
+li button {
+  padding-left: 10px;
+  margin-left: 10px;
+}
